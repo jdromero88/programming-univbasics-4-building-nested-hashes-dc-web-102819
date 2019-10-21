@@ -2,9 +2,9 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def base_hash
+  def __
     # raise "replace underscore with code"
-    monopoly = {:railroads => ""}
+    
   end
 
 end
